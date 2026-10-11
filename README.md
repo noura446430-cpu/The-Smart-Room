@@ -1,4 +1,4 @@
-# The-Smart-Room
+# The Smart Room
 Understanding and Predicting Room Usage Without Cameras
 
 📌 Project Overview
