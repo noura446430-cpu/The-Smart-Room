@@ -129,3 +129,9 @@ This project is developed collaboratively as part of a Data Science and AI bootc
 * Investigate future occupancy forecasting if the data supports it.
 * Develop an interactive dashboard for occupancy insights.
 * Explore potential applications in energy-efficient room management.
+
+  # 🎥 Project Demo
+
+Watch our **The Smart Room** demo:
+
+[▶ Watch the Demo Video](https://drive.google.com/file/d/1CkzIlpGRS9wRAHSbgvhi9tm1Q0jMjwnO/view?usp=drivesdk)
