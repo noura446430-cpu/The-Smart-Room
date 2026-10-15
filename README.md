@@ -31,6 +31,7 @@ This section presents the evaluation results of the trained classification model
 
 The final model selection is based on the observed test results and the project's evaluation criteria.
 <img width="864" height="352" alt="image" src="https://github.com/user-attachments/assets/5793ed9b-f61d-43ff-b2d5-b77073f8d1ee" />
+<img width="1262" height="680" alt="image" src="https://github.com/user-attachments/assets/5d9303df-9c23-439c-86f8-46d7d6e1a08f" />
 
 
 ## 🎥 Project Demo
